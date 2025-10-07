@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/men-fashion-client/static/css/main.7ee810a9.css",
+    "main.js": "/men-fashion-client/static/js/main.1ea6ab8a.js",
+    "static/media/purchase-sale-discount-fashion-style.jpg": "/men-fashion-client/static/media/purchase-sale-discount-fashion-style.a5bfcf623d0fa986ff96.jpg",
+    "index.html": "/men-fashion-client/index.html",
+    "main.7ee810a9.css.map": "/men-fashion-client/static/css/main.7ee810a9.css.map",
+    "main.1ea6ab8a.js.map": "/men-fashion-client/static/js/main.1ea6ab8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee810a9.css",
+    "static/js/main.1ea6ab8a.js"
+  ]
+}
